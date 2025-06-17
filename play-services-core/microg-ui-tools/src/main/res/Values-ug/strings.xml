@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~ Copyright (C) 2013-2017 microG Project Team
+  ~
+  ~ Licensed under the Apache License, Version 2.0 (the "License");
+  ~ you may not use this file except in compliance with the License.
+  ~ You may obtain a copy of the License at
+  ~
+  ~     http://www.apache.org/licenses/LICENSE-2.0
+  ~
+  ~ Unless required by applicable law or agreed to in writing, software
+  ~ distributed under the License is distributed on an "AS IS" BASIS,
+  ~ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  ~ See the License for the specific language governing permissions and
+  ~ limitations under the License.
+  --><resources>
+    <string name="lib_name">microG ئارايۈز قورالى</string>
+    <string name="lib_license">Apache ئىجازىتى 2.0, microG قوشۇنى</string>
+
+    <string name="about_version_str">نەشرى %1$s</string>
+    <string name="about_name_version_str">%1$s %2$s</string>
+    <string name="about_default_license">بارلىق ھوقۇقنى ساقلاپ قالىدۇ.</string>
+
+    <string name="prefcat_setup">تەڭشەك</string>
+
+    <string name="self_check_title">ئۆزىنى تەكشۈرۈش</string>
+    <string name="self_check_desc">سىستېمىنىڭ microG نى ئادەتتىكىدەك ئىشلىتىشكە تەڭشەلگەن ياكى تەڭشەلمىگەنلىكىنى تەكشۈرىدۇ.</string>
+
+    <string name="self_check_cat_permissions">ئىجازەت بېرىلدى</string>
+    <string name="self_check_name_permission">%1$s نىڭ ئىجازىتى:</string>
+    <string name="self_check_name_permission_interact_across_profiles">خىزمەت تەرجىمىھالى بىلەن ئالاقە قىلىش ئىجازىتى.</string>
+    <string name="self_check_resolution_permission">بۇ جاي چېكىلسە ئىجازەت بېرىلىدۇ. ئەگەر ئىجازەت بېرىلمىسە ئەپ ئادەتتىكىدەك ئىشلىمەسلىكىنى كەلتۈرۈپ چىقىرىشى مۇمكىن.</string>
+
+    <string name="about_root_title">microG ئارايۈز كۆرگەزمىسى</string>
+    <string name="about_root_summary">ئۈزۈندە</string>
+    <string name="about_root_version">نەشرى v0.1.0</string>
+    <string name="about_root_libraries">ئىچىدىكى ئامبار</string>
+
+    <string name="about_android_support_v4">v4 قوللايدىغان ئامبار</string>
+    <string name="about_android_support_v7_appcompat">v7 ئەپ ماسلىشىشچانلىقنى قوللاش ئامبىرى</string>
+    <string name="about_android_support_v7_preference">v7 مايىللىق قوللاش ئامبىرى</string>
+    <string name="about_android_support_license">Apache ئىجازىتى 2.0 ۋە Android ئوچۇق كودلۇق قۇرۇلۇش</string>
+</resources>
